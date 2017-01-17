@@ -1,2 +1,2 @@
-git is a vision control system
+git is a distributed vision control system
 git is a free software
